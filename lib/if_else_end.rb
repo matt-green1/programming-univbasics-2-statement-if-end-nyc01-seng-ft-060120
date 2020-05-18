@@ -1,5 +1,10 @@
 current_time = Time.now
 
+if 
+  put "Even!"
+elsif 
+  put "Odd!"
+end
 
 
 
