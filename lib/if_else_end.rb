@@ -6,7 +6,6 @@ if run_code_inside
   puts "code inside"
 end
 puts "Code after if...end"
-=end
 
 chance_of_rain = 0.3
 puts "Let's go outside!"
@@ -17,3 +16,7 @@ elsif (chance_of_rain > 0.25 && chance_of_rain < 0.75)
 else
   puts "Stay home and read Hegel."
 end
+
+=end
+
+
