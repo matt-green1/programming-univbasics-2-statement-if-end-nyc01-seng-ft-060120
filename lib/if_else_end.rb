@@ -1,8 +1,8 @@
 current_time = Time.now
 
-if 
+if (current_time.to_i%2) == 0
   put "Even!"
-elsif 
+else
   put "Odd!"
 end
 
