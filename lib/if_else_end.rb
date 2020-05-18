@@ -8,9 +8,9 @@ end
 puts "Code after if...end"
 =end
 
-chance_of_rain = 1
+chance_of_rain = 0.2
 puts "Let's go outside!"
-if chance_of_rain > 0.5
+if chance_of_rain <=
   puts "Pack an umbrella!"
 else
   puts "Enjoy the fine day!"
