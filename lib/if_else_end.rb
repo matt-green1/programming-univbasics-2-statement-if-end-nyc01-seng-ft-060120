@@ -1,9 +1,9 @@
 current_time = Time.now
 
 if (current_time.to_i%2) == 0
-  put "Even!"
+  puts "Even!"
 else
-  put "Odd!"
+  puts "Odd!"
 end
 
 
